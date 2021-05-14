@@ -1,0 +1,15 @@
+p{
+	font-family:Arial;
+	text-align:justify;
+}
+
+h1{
+	font-family:Arial;
+	color:#810000;
+}
+
+img{
+	max-width: 50%;
+  	height: auto;
+  	border-radius:20px;
+}

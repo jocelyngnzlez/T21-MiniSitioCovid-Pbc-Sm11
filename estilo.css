@@ -1,0 +1,43 @@
+div { 
+  background:#810000;
+  margin:8px;
+  padding:5px;
+  width:100%;
+}
+img {
+  width:300px;
+  height:auto;
+  display:block;
+  border-radius:30px;
+//  box-shadow:5px 5px #810000;
+  padding:10px;  //colchon para el borde
+  border:5px solid #810000;  //sustituye la sombra
+}
+.menu {
+  width:99%;
+  font-family:Arial;
+  font-weight:bold;
+  background:#810000;
+  list-style:none;
+  margin:0px;
+  padding:5px;
+  font-size:20;
+}
+.menu li {
+  display:inline-block;
+}
+.menu li a {
+  display:inline-block;
+  color:#FFF;
+  padding: 10px 20px;
+}
+.menu li a:hover {
+  background:#c64756;
+  color:white;
+}  
+
+.paraprincip{
+  color:#810000;
+  background-color:#fbe6c2;
+  font-family:Arial;
+}
